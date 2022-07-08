@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.iconBox{
+   position: absolute;
+   top: 0px;
+   right: 0px;
+   padding: 20px;
+   cursor: pointer;
+}
+
+.NavBar{
+  display: flex;
+}
+
+.item{
+  margin: 2px;
+  padding: 3px;
+}
